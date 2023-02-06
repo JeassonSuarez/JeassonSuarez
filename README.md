@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, soy Jeasson</h1>
-<h3 align="left">Soy estudiante de decimo semestre de ingenieria de sistemas, Hola, soy Jeasson, desarrollador Frontend que le ha tomado gusto a la programación desde el colegio, apasionado y enfocado en desarrollo de aplicaciones web.
+<h3 align="left">Soy estudiante de decimo semestre de ingenieria de sistemas, desarrollador Frontend que le ha tomado gusto a la programación desde el colegio, apasionado y enfocado en desarrollo de aplicaciones web.
 
 Mis habilidades y conocimientos incluyen:
 
