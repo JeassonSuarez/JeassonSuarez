@@ -1,5 +1,15 @@
 <h1 align="center">Hola👋, soy Jeasson</h1>
-<h3 align="left">Soy estudiante de decimo semestre de ingenieria de sistemas, desarrollador Frontend que le ha tomado gusto a la programacion desde el colegio, apasionado y enfocado en desarrollo de aplicaciones web. Mis habilidades y conocimientos incluyen: Desarrollo Frontend con ReactJS, JavaScript, HTML, CSS Diseños de bases de datos basico de Oracle, PostgreSQL Desarrollo de REST API usando NodeJS y ExpressJS Desarrollo de aplicaciones de escritorio con JAVA Manejo de versionamiento con Git y GitHub Mi pasion por la programacion arranco en el colegio, donde tuve mis primeros acercamientos con HTML y JAVA.</h3>
+<h3 align="left">Soy estudiante de decimo semestre de ingenieria de sistemas, Hola, soy Jeasson, desarrollador Frontend que le ha tomado gusto a la programación desde el colegio, apasionado y enfocado en desarrollo de aplicaciones web.
+
+Mis habilidades y conocimientos incluyen:
+
+- Desarrollo Frontend con ReactJS, JavaScript, HTML, CSS
+- Diseños de bases de datos básico de Oracle, PostgreSQL
+- Desarrollo de REST API usando NodeJS y ExpressJS
+- Desarrollo de aplicaciones de escritorio con JAVA
+- Manejo de versionamiento con Git y GitHub
+
+Mi pasión por la programación inicio en el colegio, donde tuve mis primeros acercamientos con HTML y JAVA.</h3>
 
 - 🌱 Actualmente estoy profundizando en el **desarrollo de aplicaciones web**
 
